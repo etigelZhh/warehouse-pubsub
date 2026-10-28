@@ -1,0 +1,6 @@
+aiohttp>=3.9
+sqlalchemy[asyncio]>=2.0.30
+asyncpg>=0.29
+redis>=5.0
+pydantic>=2.6
+alembic>=1.13
